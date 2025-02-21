@@ -3,12 +3,19 @@
     padding: 0;
 }
 
-#p-initial {
+#page {
+    box-sizing: border-box;
+    padding: 24px auto;
+}
+
+#p-initial1 {
     color: #E1624F;
     text-transform: uppercase;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     font-size: 16px;
+    padding: 24px;
+    padding-left: 110px;
 }
 
 #title-page p {
@@ -20,6 +27,7 @@
     font-weight: bold;
     font-size: 36px;
     padding-bottom: 40px;
+    padding-left: 110px;
 }
 
 #description {
@@ -37,4 +45,22 @@
     font-size: 16px;
     padding-top: 24px;
     padding-bottom: 40px;
+}
+
+#content-list #title-list #title h2 {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    padding-bottom: 40px;
+    padding-left: 110px;
+}
+
+#p-initial2 {
+    color: #E1624F;
+    text-transform: uppercase;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 8px;
+    padding-left: 110px;
 }
