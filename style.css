@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#p-initial {
+    color: #E1624F;
+    text-transform: uppercase;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#title-page p {
+    padding-bottom: 8px;
+}
+
+#title-page h1 {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    padding-bottom: 40px;
+}
+
+#description {
+    text-align: center;
+}
+
+#description img {
+    width: 1120px;
+    border-radius: 24px;
+}
+
+#description p {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    font-size: 16px;
+    padding-top: 24px;
+    padding-bottom: 40px;
+}
