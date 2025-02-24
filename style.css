@@ -114,23 +114,23 @@
     color: #333;
 }
 
-#content-list #list #card-travel #content-card #historia {
+#content-list #list #card-travel #content-card #History {
     color: inherit;
 }
 
-#content-list #list #card-travel #content-card #historia span {
+#content-list #list #card-travel #content-card #History span {
     color: #0C51A7; 
 }
 
-#content-list #list #card-travel #content-card #casais span {
+#content-list #list #card-travel #content-card #couples span {
     color: #591B98; 
 }
 
-#content-list #list #card-travel #content-card #familias span {
+#content-list #list #card-travel #content-card #families span {
     color: #E5245E; 
 }
 
-#content-list #list #card-travel #content-card #orcamento span {
+#content-list #list #card-travel #content-card #budget span {
     color: #E95E10; 
     padding-bottom: 40px;
 }
