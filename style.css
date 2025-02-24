@@ -5,7 +5,7 @@
 
 #page {
     box-sizing: border-box;
-    padding: 24px auto;
+    padding: 40px;
 }
 
 #p-initial1 {
@@ -15,7 +15,7 @@
     font-weight: bold;
     font-size: 16px;
     padding: 24px;
-    padding-left: 110px;
+    padding-left: 90px;
 }
 
 #title-page p {
@@ -27,7 +27,7 @@
     font-weight: bold;
     font-size: 36px;
     padding-bottom: 40px;
-    padding-left: 110px;
+    padding-left: 90px;
 }
 
 #description {
@@ -45,22 +45,108 @@
     font-size: 16px;
     padding-top: 24px;
     padding-bottom: 40px;
+    color: #333;
 }
 
 #content-list #title-list #title h2 {
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     font-size: 36px;
-    padding-bottom: 40px;
-    padding-left: 110px;
+    padding-bottom: 8px;
+    padding-left: 90px;
 }
 
-#p-initial2 {
+#content-list #title-list #title #p-initial2 {
     color: #E1624F;
     text-transform: uppercase;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     font-size: 16px;
-    padding: 8px;
-    padding-left: 110px;
+    padding: 8px 0 2px 90px;
+}
+
+#content-list #title-list p {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    margin: 0; 
+    padding: 10px 0 40px 90px;
+    color: #333;
+}
+
+#content-list #list #card-travel img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 24px;
+}
+
+#content-list #list #card-travel #content-card h3 {
+    padding-top: 20px;
+    padding-bottom: 4px;
+    font-size: 28px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    padding-left: 90px;
+}
+
+#content-list #list #card-travel #content-card #p1 {
+    padding-left: 90px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #333;
+}
+
+#content-list #list #card-travel #content-card #p2 {
+    padding-left: 90px;
+    font-weight: bold;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #333;
+}
+
+#content-list #list #card-travel #content-card li {
+    padding-left: 90px;
+    font-weight: bold;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    list-style-position: inside;
+    color: #333;
+}
+
+#content-list #list #card-travel #content-card ul {
+    padding-bottom: 48px;
+    color: #333;
+}
+
+#content-list #list #card-travel #content-card #historia {
+    color: inherit;
+}
+
+#content-list #list #card-travel #content-card #historia span {
+    color: #0C51A7; 
+}
+
+#content-list #list #card-travel #content-card #casais span {
+    color: #591B98; 
+}
+
+#content-list #list #card-travel #content-card #familias span {
+    color: #E5245E; 
+}
+
+#content-list #list #card-travel #content-card #orcamento span {
+    color: #E95E10; 
+    padding-bottom: 40px;
+}
+
+footer p {
+    padding-top: 32px;
+    text-align: center;
+    font-size: 16px;
+}
+
+footer #p1 {
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #333;
+}
+
+footer #p2 {
+    font-family: 'Alice';
+    color:#333;
 }
